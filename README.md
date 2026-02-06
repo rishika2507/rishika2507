@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rishika Agarwal</h1>
+<h1 align="center">Hi!, I'm Rishika Agarwal👋</h1>
 <h3 align="center">Backend-focused Software Engineer</h3>
+<br>
 
-- 🌱 Currently learning <b>Django REST Framework & API design</b>  
-- 💬 Ask me about <b>Python, SQL, Django (Backend), Power BI</b>  
-- 📫 Reach me at <b>rishika25agarwal@gmail.com</b>
+-  Currently learning <b>Django REST Framework & API design</b>  
+-  Ask me about <b>Python, SQL, Django (Backend), Power BI</b>  
+-  Reach me at <b>rishika25agarwal@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
